@@ -38,4 +38,4 @@ For the first test case, 2 operations are: abc ⇒ abb ⇒ aba.
 
 For the second test case, abcba is already a palindrome.
 
-For the third test case, 4 operations are: abcd ⇒ abcc ⇒ abcb ⇒ abca ⇒ abca ⇒ abba
+For the third test case, 4 operations are: abcd ⇒ abcc ⇒ abcb ⇒ abca ⇒ abba
