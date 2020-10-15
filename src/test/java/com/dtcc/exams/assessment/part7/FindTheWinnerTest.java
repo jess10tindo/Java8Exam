@@ -1,5 +1,6 @@
 package com.dtcc.exams.assessment.part7;
-/*
+
+import com.dtcc.exams.part7.FindTheWinner;
 import org.junit.Assert;
 import org.junit.Test;
 
@@ -28,4 +29,3 @@ public class FindTheWinnerTest {
     }
 
 }
-*/

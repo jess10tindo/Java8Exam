@@ -1,5 +1,5 @@
 package com.dtcc.exams.assessment.part3;
-/*
+
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
 
@@ -12,4 +12,3 @@ import org.junit.runners.Suite;
 })
 public class RockPaperScissorTestSuite {
 }
-*/
